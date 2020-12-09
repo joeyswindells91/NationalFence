@@ -160,7 +160,8 @@ input[type=submit]:hover {
 
 @media (max-width: 767px) {
   .cities {
-    width: 30%;
+    text-align: center;
+    width: 90%;
     margin: 0 auto 0 auto;
   }
 }
