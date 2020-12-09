@@ -20,6 +20,7 @@
 .body-font {
   font-family: 'Montserrat', sans-serif;
   color: #8f8f8f;
+  line-height: 2;
 }
 .header-image {
   width: 60%;
