@@ -8,7 +8,6 @@
 
 .heading-text {
   text-align: center;
-  /* position: relative; */
   border-style: solid;
   border-radius: 25px;
 }
@@ -41,15 +40,11 @@
   width: 90%;
 }
 .service {
-  text-align: center;
+  text-align: left;
 }
 .cities {
-  text-align: right;
-  font-size: 1rem;
-}
-.right {
-  position: relative;
-  left: 20px;
+  /* text-align: left; */
+  font-size: 15px;
 }
 .call {
   text-align: center;
@@ -158,3 +153,6 @@ input[type=submit]:hover {
   padding: 10px;
 }
 
+#about-us {
+  margin-top: 10px;
+}
