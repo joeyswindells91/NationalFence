@@ -2,7 +2,7 @@
 
 #title {
   background-color: #bf1e2e;
-  padding: 3% 10%;
+  padding: 1% 10%;
   color: #fff;
 }
 
@@ -16,7 +16,6 @@
 }
 .subheading-font {
   font-family: 'Montserrat', sans-serif;
-  pointer-events: none;
 }
 .body-font {
   font-family: 'Montserrat', sans-serif;
@@ -24,7 +23,7 @@
 }
 .header-image {
   width: 60%;
-  margin: auto;
+  margin: 5px auto 5px auto;
   display: block;
 }
 
