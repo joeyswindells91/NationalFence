@@ -47,6 +47,8 @@
 .cities {
   /* text-align: left; */
   font-size: 15px;
+  /* width: 30%;
+  margin: 0 auto 0 auto; */
 }
 .call {
   text-align: center;
@@ -154,4 +156,17 @@ input[type=submit]:hover {
 
 #about-us {
   margin-top: 10px;
+}
+
+@media (max-width: 767px) {
+  .cities {
+    width: 30%;
+    margin: 0 auto 0 auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .contact {
+    text-align: center;
+  }
 }
