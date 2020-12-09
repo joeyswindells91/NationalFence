@@ -171,3 +171,9 @@ input[type=submit]:hover {
     text-align: center;
   }
 }
+
+@media (max-width: 1112px) {
+  .dealer {
+    width: 100%;
+  }
+}
