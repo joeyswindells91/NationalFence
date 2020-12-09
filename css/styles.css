@@ -16,6 +16,7 @@
 }
 .subheading-font {
   font-family: 'Montserrat', sans-serif;
+  pointer-events: none;
 }
 .body-font {
   font-family: 'Montserrat', sans-serif;
@@ -30,6 +31,7 @@
 .blockquote {
   margin: 0 auto 0 auto;
   text-align: center;
+  padding: 10px;
 }
 .carousel {
   border-style: solid;
@@ -141,15 +143,12 @@ input[type=submit]:hover {
   margin-bottom: 20px;
 }
 
-.history {
-  line-height: 2;
-}
-
 .products {
   line-height: 3;
 }
 
 .history {
+  line-height: 2;
   padding: 10px;
 }
 
