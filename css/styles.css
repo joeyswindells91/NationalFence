@@ -31,6 +31,10 @@
 .buttons {
   margin: 10px;
 }
+.btn {
+  margin-left: 10px;
+  margin-right: 10px;
+}
 .blockquote {
   margin: 0 auto 0 auto;
   text-align: center;
