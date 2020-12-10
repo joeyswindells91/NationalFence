@@ -28,6 +28,9 @@
   display: block;
 }
 
+.buttons {
+  margin: 10px;
+}
 .blockquote {
   margin: 0 auto 0 auto;
   text-align: center;
